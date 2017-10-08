@@ -33,6 +33,3 @@
 
 ## demo实现
 nodemcu(按键开关) <——> raspberry pi(MQTT Breaker) <——> nodemcu(智能插座)
-
-## 可能涉及的专利
-1、磁贴式易更换智能控制开关
